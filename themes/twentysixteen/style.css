@@ -1698,11 +1698,11 @@ blockquote:after,
 	font-weight: 700;
 	line-height: 1.25;
 	margin-bottom: 1em;
-	color: red;
+	color: green;
 }
 
 .entry-title a {
-	color: red;
+	color: green;
 }
 
 .entry-title a:hover,
